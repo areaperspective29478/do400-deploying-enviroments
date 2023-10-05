@@ -5,7 +5,7 @@ pipeline {
  }
  }
 environment {
- RHT_OCP4_DEV_USER = gcwlbj
+ RHT_OCP4_DEV_USER = 'gcwlbj'
  DEPLOYMENT_STAGE = 'shopping-cart-stage'
  DEPLOYMENT_PRODUCTION = 'shopping-cart-production'
  }
